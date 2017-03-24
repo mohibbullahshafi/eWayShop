@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beansProjectDescription>
+	<version>1</version>
+	<pluginVersion><![CDATA[3.8.3.201612191259-RELEASE]]></pluginVersion>
+	<configSuffixes>
+		<configSuffix><![CDATA[xml]]></configSuffix>
+	</configSuffixes>
+	<enableImports><![CDATA[false]]></enableImports>
+	<configs>
+		<config>WebContent/WEB-INF/ewayshop-servlet.xml</config>
+		<config>src/com/ewayshop/web/config/userdao-context.xml</config>
+		<config>src/com/ewayshop/web/config/security-context.xml</config>
+	</configs>
+	<autoconfigs>
+		<config>src/com/ewayshop/web/config/services-context.xml</config>
+		<config>src/com/ewayshop/web/config/productdao-context.xml</config>
+	</autoconfigs>
+	<configSets>
+	</configSets>
+</beansProjectDescription>
